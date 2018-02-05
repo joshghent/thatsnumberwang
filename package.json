@@ -1,15 +1,19 @@
 {
   "name": "numberwang",
   "version": "1.0.0",
-  "description": "",
+  "description": "The maths quiz that simply everyone will love",
   "main": "server.js",
   "scripts": {
-    "test": "",
     "start": "node server.js"
   },
   "author": "Josh Ghent <me@joshghent.com> (https://joshghent.com)",
   "license": "MIT",
   "dependencies": {
-    "express": "4.16.2"
+    "compression": "1.7.1",
+    "dotenv": "5.0.0",
+    "express": "4.16.2",
+    "helmet": "3.10.0",
+    "http": "0.0.0",
+    "path": "0.12.7"
   }
 }

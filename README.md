@@ -8,8 +8,6 @@ Unfamiliar with Numberwang? Watch a documentary on the history of numberwang her
 ```js
 /api
 	|
-	-> /{Language}/ - Options en-uk, en-us, en-de
-							 |
-							 -> /check/
+	-> /check/
 												|
 												-> /{Number}/ - The number you want to check for numberwang
