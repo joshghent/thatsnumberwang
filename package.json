@@ -1,7 +1,7 @@
 {
   "name": "numberwang",
   "version": "1.0.0",
-  "description": "The maths quiz that simply everyone will love",
+  "description": "The maths quiz that simply everyone is talking about",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
